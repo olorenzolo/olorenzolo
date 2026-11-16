@@ -4,7 +4,7 @@
 
 Florianópolis, SC · [olorenzopimentel@gmail.com](mailto:olorenzopimentel@gmail.com) · Instagram [@eulo.ia](https://instagram.com/eulo.ia)
 
-Sou responsável por todas as páginas, funis e integrações de três marcas de saúde, do código ao deploy. Também construo sistemas internos com agentes de IA que automatizam operação, monitoramento e relatórios.
+Responsável por todas as páginas, funis e integrações de três marcas nacionalmente conhecidas na área da saúde, do código ao deploy. Também construo sistemas internos com agentes de IA que automatizam operação, monitoramento e relatórios.
 
 Fundador da **TGT Mídia**, agência parceira oficial da Anthropic no Claude Partner Network, e criador do **[bigAI](https://usebigai.com)**.
 
