@@ -18,6 +18,13 @@ Fundador da **TGT Mídia**, agência parceira oficial da Anthropic no Claude Par
 - **Viral Hunter**: encontra posts e reels virais do Instagram e do Facebook como referência de conteúdo. Next.js no Cloudflare Workers + Graph API da Meta.
 - **WhatsApp Cloud API**: webhook com validação de assinatura e envio pela Graph API, integrados ao Chatwoot.
 
+## Código aberto
+
+- **[atlas-agent-toolkit](https://github.com/olorenzolo/atlas-agent-toolkit)**: módulos TypeScript sem dependências extraídos do Atlas: busca de memória por relevância, fila de tarefas entre agentes e contagem de tokens por dia e modelo. Com testes.
+- **[endobras](https://github.com/olorenzolo/endobras)**: landing page em HTML.
+
+O código dos sistemas em produção (Atlas, Cockpit, páginas dos clientes) é privado.
+
 ## Stack
 
 | Área | Ferramentas |
