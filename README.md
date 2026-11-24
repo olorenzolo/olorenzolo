@@ -11,7 +11,7 @@ Fundador da **TGT Mídia**, agência parceira oficial da Anthropic no Claude Par
 ## O que eu construí
 
 - **[bigAI](https://usebigai.com)**: SaaS brasileiro que reúne os principais geradores de vídeo, imagem, música e narração com IA (Kling, Seedance, Veo, Suno e outros) numa assinatura só.
-- **Atlas**: painel em Next.js 15 que orquestra mais de 20 agentes de IA (Claude, Codex, OpenCode), cada um especialista num cliente ou função. Chat em tempo real (SSE), memória em SQLite, fila de tarefas, agendador, deploy atômico com rollback e acesso via Cloudflare Tunnel.
+- **Atlas**: painel em Next.js 15 que orquestra mais de 20 agentes de IA (Claude, Codex, OpenCode, Ollama), cada um especialista num cliente ou função. Chat em tempo real (SSE), memória em SQLite, fila de tarefas, agendador, deploy atômico com rollback e acesso via Cloudflare Tunnel.
 - **Cockpit**: painel multiusuário do time de marketing (~10 pessoas) com agentes de IA, tarefas integradas ao Trello, vendas dos checkouts e registro de atividade.
 - **Apresentações mensais**: sistema em Next.js 16 + Prisma + Postgres em que o RH preenche os dados e sai o deck, o PPTX editável e o PDF, com login por papel.
 - **Monitor de Grupos**: checa grupos de WhatsApp e páginas a cada poucos minutos, cria grupos novos quando um enche e alerta se uma página, o pixel ou a entrada de leads cai.
